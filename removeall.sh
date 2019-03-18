@@ -21,5 +21,5 @@ do
 done
 
 
-
+helm del --purge myingress
 helm del --purge
